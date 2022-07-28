@@ -1,9 +1,9 @@
-@media only screen and (max-width:1300px){
+@media screen and (max-width:1300px){
     .container{
         width: 95%;
     }
 }
-@media only screen and (max-width:1260px){
+@media screen and (max-width:1260px){
     header{
         padding: 6rem 2.5rem;
     }
@@ -18,7 +18,7 @@
         
     }
 }
-@media only screen and (max-width:1180px){
+@media  screen and (max-width:1180px){
     header{
         padding: 6rem 2rem;
     }
@@ -39,7 +39,7 @@
         margin-top: 0;
     }
 }
-@media only screen and (max-width:1030px){
+@media screen and (max-width:1030px){
     header{
         padding: 5rem 2rem;
     }
@@ -71,7 +71,7 @@
     }
 }
 
-@media only screen and (max-width: 940px){
+@media screen and (max-width: 940px){
     .header-texts{
         max-width: 20rem;
     }
@@ -84,7 +84,7 @@
  tablet view 
 ===============*/
 
-@media only screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     h1,h2{
         font-size:2.5rem;
     }
@@ -147,7 +147,7 @@
     }
 }
 
-@media only screen and (max-width: 740px){
+@media screen and (max-width: 740px){
     header{
         padding: 3rem 2.5rem;
     }
@@ -162,7 +162,7 @@
         
     }
 }
-@media only screen and (max-width: 720px){
+@media screen and (max-width: 720px){
     header{
         padding: 3rem 2.5rem;
     }
@@ -188,7 +188,7 @@
  mobile view 
  ==============*/
 
-@media only screen and (max-width: 576px) {
+@media screen and (max-width: 576px) {
     h1,h2{
         font-size:1.375rem;
     }
