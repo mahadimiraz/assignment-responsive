@@ -28,6 +28,13 @@ body{
     width: 100%;
     margin: 0 auto;
 }
+.button{
+    background-color: red;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
 h1{
     font-size: 4.375rem;
     font-weight: 600;
